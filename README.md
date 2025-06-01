@@ -1,5 +1,10 @@
 # EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
 
+```
+Name - SANTHOSH L
+Reg No. - 212222100046
+```
+
 ---
 
 ## Aim
